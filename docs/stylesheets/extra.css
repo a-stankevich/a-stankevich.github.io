@@ -1,6 +1,6 @@
 /* on the bigger screens navigation is done with sidebar */
 
-@media screen and (min-width:77) {
+@media screen and (min-width:77em) {
     header.md-header {
         display: none;
     }
