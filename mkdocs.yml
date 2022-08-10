@@ -1,7 +1,7 @@
 site_name: Arthur Stankevich Homepage
 
 theme:
-    name: mkdocs
+    name: gitbook
     
 # Extensions
 markdown_extensions:
