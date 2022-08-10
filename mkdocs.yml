@@ -1,27 +1,8 @@
 site_name: Arthur Stankevich Homepage
 
 theme:
-    name: 'material'
-    palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: deep purple
-    #   toggle:
-    #     icon: material/toggle-switch-off-outline
-    #     name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: white
-      accent: deep purple
-    #   toggle:
-    #     icon: material/toggle-switch
-    #     name: Switch to light mode
-
+    name: mkdocs
+    
 # Extensions
 markdown_extensions:
   - footnotes
